@@ -1,0 +1,36 @@
+h1{
+  color: brown;
+  font-family: "Comic Sans MS";
+  text-align: center;
+  font-size: 100px;
+}
+
+h2{
+  color: brown;
+  font-family: "Comic Sans MS";
+  text-align: center;
+  font-size: 30px;
+}
+
+.OwnerImage{
+  width: 35%;
+  height: 35%;
+}
+
+.FoodImage1{
+  width: 30%;
+  height: 40%;
+}
+
+.storyText{
+  color: brown;
+  font-family: "Comic Sans MS";
+  text-align: center;
+  font-size: 25px;
+}
+
+.misc{
+  color: brown;
+  font-family: "Comic Sans MS";
+  text-align: center;
+}
